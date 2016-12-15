@@ -1,4 +1,5 @@
 # 个人长期收集整理的IOS资源大全
+###更新日期：2016年-12月-15日
 ### 个人的能力是有限的，大家的共同努力才是王道，如有好的建议，好的文章、资源推荐。请加QQ：1213423761,或者QQEmail我。
 ##目录
 *   [优秀源码](#sourcecode)
@@ -16,8 +17,10 @@
 *   [网络](#network)
 *   [其它UI](#otherUI)
 *   [效率、优化](#effectiveness)
+*   [硬件](#hardware)
 *   [模块化](#modules)
 *   [工具](#tool)
+*   [Xcode插件推荐](#xcodeplugs)
 *   [其它](#otherItem)
 
 ## <a name="sourcecode"></a>优秀源码（站在巨人的肩膀、借鉴巨人的经验）
@@ -105,13 +108,18 @@
 *   JDStatusBarNotification:电池栏hud状态提示。 [官网](https://github.com/jaydee3/JDStatusBarNotification)
 *   M13ProgressSuite:包含了很多 iOS 上用于显示进度信息工具的封装。 [官网](https://github.com/Marxon13/M13ProgressSuite)
 *   NJKWebViewProgress:webview进度条封装。 [官网](https://github.com/ninjinkun/NJKWebViewProgress)
+
 ### <a name="safety"></a>安全
 *   UICKeyChainStore:UICKeyChainStore 是一个对 Keychain 的简洁封装。 [官网](https://github.com/kishikawakatsumi/UICKeyChainStore)
 *   SAMKeychain:SSKeyChain的作者是大名鼎鼎的SSToolkit的作者samsoffes。  [官网](https://github.com/soffes/SAMKeychain)
+
 ### <a name="photoViews"></a>照片选择，相片预览
 *   ZLPhotoBrowser:方便易用的相册照片多选框架，支持拍照、预览快速多选；相册混合选择；原图功能等。 [官网](https://github.com/longitachi/ZLPhotoBrowser)
 *   CorePhotoBroswerVC:本地图片和网络图片的预览库。 [官网](https://github.com/CharlinFeng/CorePhotoBroswerVC)
 *   MISImagePicker:带裁剪功能的照片选择库。 [官网](https://github.com/maokebing/MISImagePicker)
+*   IDMPhotoBrowser抽屉式展示图片浏览库。[官网](https://github.com/ideaismobile/IDMPhotoBrowser)
+*   JTSImageViewController:具有深层次的图片浏览器。[官网](https://github.com/jaredsinclair/JTSImageViewController)
+*   YLGIFImage:高性能的gif图片处理库。[官网](https://github.com/liyong03/YLGIFImage)
 
 ### <a name="slideMenu"></a>侧边栏
 *   MMDrawerController:包含左右侧边栏、弹性动效，实现简单。精品。 [官网](https://github.com/mutualmobile/MMDrawerController)
@@ -160,6 +168,7 @@
 *   PhoneNumberKit:电话号码格式化处理插件。 [官网](https://github.com/marmelroy/PhoneNumberKit)
 *   reel-search:快捷输入并选择。 [官网](https://github.com/Ramotion/reel-search)
 *   MLEmojiLabel:label显示表情。  [官网](https://github.com/molon/MLEmojiLabel)
+*   ViewPager切换库：[官网](https://github.com/iltercengiz/ICViewPager)
 
 ### <a name="effectiveness"></a>效率、优化
 *   Aspects:面向切面编程简易实现库。精品。 [官网](https://github.com/steipete/Aspects)
@@ -167,10 +176,19 @@
 *   YYKit:是一组庞大、功能丰富的 iOS 组件。 [官网](https://github.com/ibireme/YYKit)
 *   AsyncDisplayKit：Facebook开源的能够提高UI流畅性并缩短响应时间的UI框架。 [官网](https://github.com/facebook/AsyncDisplayKit)
 *   JsPatch:可以实时修复线上bug,快速安全、使用简单的强大热更新、热修复库。 [官网](http://jspatch.com/) 
+*   GYDataCenter： 是一个高性能的SQLite数据库框架，提供了一套简单易用的面向对象的数据操作接口。[官网](https://github.com/Zepo/GYDataCenter)
+*   GYHttpMock：用于iOS App网络层开发，可以截获指定的 HTTP request，并根据规则，完全替换或部分修改真实的网络返回数据。[官网](https://github.com/hypoyao/GYHttpMock)
+*   AAMockData:有意义的测试数据模拟，方便生成测试数据。[官网](https://github.com/shiyuan17/AAMockData)
+*   MLeaksFinder：只需要引入 MLeaksFinder，就可以自动在 App 运行过程检测到内存泄露的对象并立即提醒，无需打开额外的工具。[官网](https://github.com/Zepo/MLeaksFinder)
 *   Object-c转JsPatch代码。 [官网](https://github.com/bang590/JSPatchConvertor)
 *   LKDBHelper-SQLite-ORM：sqlite封装，ORM实现。 [官网](https://github.com/li6185377/LKDBHelper-SQLite-ORM)
 *   UIView-FDCollapsibleConstraints:优雅的方式解决自动布局中子View的动态显示和隐藏的问题。 [官网](https://github.com/forkingdog/UIView-FDCollapsibleConstraints)
 *   apiary.io :创建文档API，可以快速让APP先调用，并行开发。 [官网](https://apiary.io/)
+
+### <a name="hardware"></a>硬件
+*   MotionKit:快捷从加速度传感器、陀螺仪和磁力传感器获取数据。 [官网](https://github.com/MHaroonBaig/MotionKit)
+*   BluetoothKit：蓝牙通讯封装库。[官网](https://github.com/rhummelmose/BluetoothKit)
+*   LocationManager:地理位置封装库。[官网](https://github.com/intuit/LocationManager)
 
 ### <a name="modules"></a>模块化
 *   JLRoutes:可简单地处理复杂的URL schemes，无需进行任何类型的URL或者字符串解析。 [官网](https://github.com/joeldev/JLRoutes)
@@ -194,13 +212,29 @@
 *   Postman: 网络请求测试工具,有mac版及chrome插件版。 [官网](https://www.getpostman.com/) 
 *   FarBox:Markdown一见倾心，写作工具。 [官网](https://www.farbox.com/service/app/desktop_editor)
 *   SourceTree:一款不错的git客户端。 [官网](https://www.sourcetreeapp.com/)
+*   Colorsnapper：一款实用的取色软件。 [官网](http://colorsnapper.com/)
+*   ImageOptim: 一款基于Mac的图像“瘦身”软件,无损压缩图片。 [官网](https://imageoptim.com/mac) 
+
+### <a name="xcodeplugs"></a>Xcode插件推荐 
+*   Xcode8后插件已经被禁用，使得很多优秀的插件被墙死，在此提供两个方式让Xcode可以继续使用插件。**MakeXcodeGr8Again**是一个在不改变原有Xcode基本上，重新生成一个新的可以使用插件的Xcode。[官网](https://github.com/fpg1503/MakeXcodeGr8Again)。  
+  **使用方法：**   
+  1.使用MakeXcodeGr8Again生成一个新的Xcode需要等待一段时间，生成后名为：XcodeGr8。   
+  2.随后我们可以安装插件管理器[Alcatraz](https://github.com/alcatraz/Alcatraz)。   
+  3.使用插件管理器安装我们需要的插件，重新打开Xcode后，如果插件不存在，则用终端运行以下命令：
+  
+           find ~/Library/Application\ Support/Developer/Shared/Xcode/Plug-ins -name Info.plist -maxdepth 3 | xargs -I{} defaults write {} DVTPlugInCompatibilityUUIDs -array-add `defaults read /Applications/XcodeGr8.app/Contents/Info DVTPlugInCompatibilityUUID`
+      
+   **update_xcode_plugins**：第二个是使用脚本去掉签名，让Xcode可以继续使用插件，不推荐使用，如果提交应用的时候请删除，再进行提交。[官网](https://github.com/inket/update_xcode_plugins)
 *   ESJsonFormat-Xcode:XCode神级插件，可以方便的通过json串生成实体属性，及MJextent映射。 [官网](https://github.com/EnjoySR/ESJsonFormat-Xcode)
 *   injectionforxcode:ios 实时预览,Xcode插件。 [官网](https://github.com/johnno1962/injectionforxcode)
 *   KSHObjcUML:ios 类图结构预览Xcode插件。 [官网](https://github.com/kimsungwhee/KSHObjcUML)
-*   Colorsnapper：一款实用的取色软件。 [官网](http://colorsnapper.com/)
-*   ImageOptim: 一款基于Mac的图像“瘦身”软件,无损压缩图片。 [官网](https://imageoptim.com/mac)  
+*   VVDocumenter：注释神器。大家懂的[官网](https://github.com/onevcat/VVDocumenter-Xcode)
+
 
 ### <a name="otherItem"></a>其它
 *   收集的AppStore被拒理由大全。 [官网](https://github.com/jcccn/Why-Reject)
 *   iOS资源大全中文版。 [官网](https://github.com/jobbole/awesome-ios-cn)
 *   android资源大全。  [官网](https://github.com/Rano1/Interactive-animation/blob/master/README.md)
+*    ibireme收集整理的iOS开发相关第三方库和使用工具。[官网](http://github.ibireme.com/github/list/ios/)
+*    zhouhuanqiang收集整理的博客及开源项目:[官网](//github.com/zhouhuanqiang/LearningIOS)
+

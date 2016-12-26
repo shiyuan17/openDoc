@@ -1,5 +1,5 @@
 # 个人长期收集整理的IOS资源大全
-###更新日期：2016年-12月-15日
+###更新日期：2016年-12月-26日
 ### 个人的能力是有限的，大家的共同努力才是王道，如有好的建议，好的文章、资源推荐。请加QQ：1213423761,或者QQEmail我。
 ##目录
 *   [优秀源码](#sourcecode)
@@ -29,7 +29,7 @@
 *   ESTMusicPlayer 是基于 DOUAudioStreamer 开发的一款优雅简洁的音乐播放器 语言：Object-c ★★★[官网](https://github.com/Aufree/ESTMusicPlayer)
 *   Twitter出口，家居商店应用 语言：Swift2。★★★[官网](https://github.com/twitterdev/furni-ios?url_type=39&object_type=webpage&pos=1)
 *   Coding ios客户端 语言：Object-c 精品推荐。★★★★★[官网](https://github.com/Coding/Coding-iOS)
-*   Yep 是一款非常小巧而轻量化的社交 App 语言：Swift。[官网](https://github.com/CatchChat/Yep)
+*   Yep 是一款非常小巧而轻量化的社交 App 语言：Swift。★★★★★[官网](https://github.com/CatchChat/Yep)
 *   firefox-ios 火狐浏览器ios客户端源码。★[官网](https://github.com/mozilla/firefox-ios)
 *   swiftWeather 一款精致的天气应用。 [官网](https://github.com/JakeLin/SwiftWeather)
 
@@ -147,11 +147,10 @@
 *   VideoBeautify:视频美化，功能酷似美拍,秒拍等应用的源码：对视频进行各种美化处理，采用主题形式进行分类，内含各种滤镜，动画特效和音效等。 [官网](https://github.com/xujingzhou/VideoBeautify)
 *   charts:强大的图表库。 [官网](https://github.com/danielgindi/ios-charts)
 *   KeychainAccess:指纹解锁库。 [官网](https://github.com/kishikawakatsumi/KeychainAccess)
-*   [PDTSimpleCalendar]:一款简洁高大上的日历UI控件。 [官网](https://github.com/jivesoftware/PDTSimpleCalendar)
+*   PDTSimpleCalendar:一款简洁高大上的日历UI控件。 [官网](https://github.com/jivesoftware/PDTSimpleCalendar)
 *   PINRemoteImage:渐进式过渡图片下载。 [官网](https://github.com/pinterest/PINRemoteImage)
 *   TTTAttributedLabel:uilabel的替代品。 [官网](https://github.com/TTTAttributedLabel/TTTAttributedLabel)
 *   HXEasyCustomShareView:封装精致的分享界面。 [官网](https://github.com/huangxuan518/HXEasyCustomShareView)
-*   BabyBluetooth:蓝牙库封装。 [官网](https://github.com/coolnameismy/BabyBluetooth)
 *   LTNavigationBar:导航栏动态伸展收缩着色。 [官网](https://github.com/ltebean/LTNavigationBar)
 *   UICustomActionSheet:背景毛玻璃模糊ActionSheelt。 [官网](https://github.com/pchernovolenko/UICustomActionSheet)
 *   RDVTabBarController：tabbar工具栏封装。 [官网](https://github.com/robbdimitrov/RDVTabBarController)
@@ -169,6 +168,8 @@
 *   reel-search:快捷输入并选择。 [官网](https://github.com/Ramotion/reel-search)
 *   MLEmojiLabel:label显示表情。  [官网](https://github.com/molon/MLEmojiLabel)
 *   ViewPager切换库：[官网](https://github.com/iltercengiz/ICViewPager)
+*   YPTabBarController:自定义TabBarController[官网](https://github.com/yuping1989/YPTabBarController)
+*   APParallaxHeader头部拉伸或收起控件[官网](https://github.com/apping/APParallaxHeader)
 
 ### <a name="effectiveness"></a>效率、优化
 *   Aspects:面向切面编程简易实现库。精品。 [官网](https://github.com/steipete/Aspects)
@@ -184,9 +185,12 @@
 *   LKDBHelper-SQLite-ORM：sqlite封装，ORM实现。 [官网](https://github.com/li6185377/LKDBHelper-SQLite-ORM)
 *   UIView-FDCollapsibleConstraints:优雅的方式解决自动布局中子View的动态显示和隐藏的问题。 [官网](https://github.com/forkingdog/UIView-FDCollapsibleConstraints)
 *   apiary.io :创建文档API，可以快速让APP先调用，并行开发。 [官网](https://apiary.io/)
+*   FBRetainCycleDetector:facebook开发的一款检查循环引用的类库。[官网](https://github.com/facebook/FBRetainCycleDetector)
+*   AsyncDisplayKit:facebook开源的又一款精品，能够提高UI的流畅性并缩短响应时间。[官网](https://github.com/facebook/AsyncDisplayKit)
 
 ### <a name="hardware"></a>硬件
 *   MotionKit:快捷从加速度传感器、陀螺仪和磁力传感器获取数据。 [官网](https://github.com/MHaroonBaig/MotionKit)
+*   BabyBluetooth:蓝牙库封装。 [官网](https://github.com/coolnameismy/BabyBluetooth)
 *   BluetoothKit：蓝牙通讯封装库。[官网](https://github.com/rhummelmose/BluetoothKit)
 *   LocationManager:地理位置封装库。[官网](https://github.com/intuit/LocationManager)
 
@@ -236,5 +240,6 @@
 *   iOS资源大全中文版。 [官网](https://github.com/jobbole/awesome-ios-cn)
 *   android资源大全。  [官网](https://github.com/Rano1/Interactive-animation/blob/master/README.md)
 *    ibireme收集整理的iOS开发相关第三方库和使用工具。[官网](http://github.ibireme.com/github/list/ios/)
-*    zhouhuanqiang收集整理的博客及开源项目:[官网](//github.com/zhouhuanqiang/LearningIOS)
+*    zhouhuanqiang收集整理的博客及开源项目:[官网](http://github.com/zhouhuanqiang/LearningIOS)
+*    Analyze:关于iOS开源框架源代码解析的文章：[官网](https://github.com/Draveness/iOS-Source-Code-Analyze)
 

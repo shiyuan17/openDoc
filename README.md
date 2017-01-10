@@ -1,5 +1,5 @@
 # 个人长期收集整理的IOS资源大全
-###更新日期：2016年-12月-26日
+###更新日期：2017年-1月-10日
 ### 个人的能力是有限的，大家的共同努力才是王道，如有好的建议，好的文章、资源推荐。请加QQ：1213423761,或者QQEmail我。
 ##目录
 *   [优秀源码](#sourcecode)
@@ -13,6 +13,7 @@
 *   [安全](#safety)
 *   [照片选择、相片预览](#photoViews)
 *   [侧边栏](#slideMenu)
+*   [弹出视图](#popupMenu)
 *   [弹出菜单](#popupMenu)
 *   [网络](#network)
 *   [其它UI](#otherUI)
@@ -22,6 +23,7 @@
 *   [工具](#tool)
 *   [Xcode插件推荐](#xcodeplugs)
 *   [其它](#otherItem)
+*   [微信小程序](#xcx)
 
 ## <a name="sourcecode"></a>优秀源码（站在巨人的肩膀、借鉴巨人的经验）
 
@@ -137,6 +139,11 @@
 *   WHCNetWorkKit:简单的可后台下载文件的下载库。 [官网](https://github.com/netyouli/WHCNetWorkKit)
 *   SGWiFiUpload:局域网wifi传文件实现封装。 [官网](https://github.com/Soulghost/SGWiFiUpload)
 
+### <a name="pushView"></a>弹出视图
+*   CNPPopupController底部弹出视图 [官网](https://github.com/carsonperrotti/CNPPopupController)
+*   ZFDragableModalTransition底部弹出景深层，类似淘宝的购物弹出选择层一样[官网](https://github.com/zoonooz/ZFDragableModalTransition)
+*   BubbleTransition圆润的圆形model视图：[官网](https://github.com/andreamazz/BubbleTransition)
+
 ### <a name="otherUI"></a>其它UI
 *   QRCatcher:一个简洁美观的二维码扫描应用。 [官网](https://github.com/100mango/QRCatcher)
 *   LBXScan:类QQ的二维码扫描封装。 [官网](https://github.com/MxABC/LBXScan)
@@ -167,9 +174,13 @@
 *   PhoneNumberKit:电话号码格式化处理插件。 [官网](https://github.com/marmelroy/PhoneNumberKit)
 *   reel-search:快捷输入并选择。 [官网](https://github.com/Ramotion/reel-search)
 *   MLEmojiLabel:label显示表情。  [官网](https://github.com/molon/MLEmojiLabel)
-*   ViewPager切换库：[官网](https://github.com/iltercengiz/ICViewPager)
+*   PageMenu ViewPager切换库：[官网](https://github.com/uacaps/PageMenu)
 *   YPTabBarController:自定义TabBarController[官网](https://github.com/yuping1989/YPTabBarController)
 *   APParallaxHeader头部拉伸或收起控件[官网](https://github.com/apping/APParallaxHeader)
+*   JHUD一个不错的空视图管理[官网](https://github.com/jinxiansen/JHUD)
+*   DZNEmptyDataSet 优秀的TableView出错页、空白视图封装[官网](https://github.com/dzenbot/DZNEmptyDataSet)
+*   LGSublimationView渐变过渡展示页：[官网](https://github.com/lukegeiger/LGSublimationView)
+*   RMPZoomTransitionAnimator图片放大转场：[官网](https://github.com/recruit-mp/RMPZoomTransitionAnimator)
 
 ### <a name="effectiveness"></a>效率、优化
 *   Aspects:面向切面编程简易实现库。精品。 [官网](https://github.com/steipete/Aspects)
@@ -187,6 +198,7 @@
 *   apiary.io :创建文档API，可以快速让APP先调用，并行开发。 [官网](https://apiary.io/)
 *   FBRetainCycleDetector:facebook开发的一款检查循环引用的类库。[官网](https://github.com/facebook/FBRetainCycleDetector)
 *   AsyncDisplayKit:facebook开源的又一款精品，能够提高UI的流畅性并缩短响应时间。[官网](https://github.com/facebook/AsyncDisplayKit)
+*   TransitionKit：ios状态机，[官网](https://github.com/blakewatters/TransitionKit)
 
 ### <a name="hardware"></a>硬件
 *   MotionKit:快捷从加速度传感器、陀螺仪和磁力传感器获取数据。 [官网](https://github.com/MHaroonBaig/MotionKit)
@@ -242,4 +254,10 @@
 *    ibireme收集整理的iOS开发相关第三方库和使用工具。[官网](http://github.ibireme.com/github/list/ios/)
 *    zhouhuanqiang收集整理的博客及开源项目:[官网](http://github.com/zhouhuanqiang/LearningIOS)
 *    Analyze:关于iOS开源框架源代码解析的文章：[官网](https://github.com/Draveness/iOS-Source-Code-Analyze)
+
+### <a name="xcx"></a>微信小程序
+*   **coolsite360:**小程序UI设计工具,在线进行小程序UI可视化设计，支持Flex布局， 
+可导出符合小程序标准的代码供后续开发。 [官网](http://www.coolsite360.com/wxapps/)
+*   **wafer：**快速构建具备弹性伸缩能力的微信小程序,是腾讯云面向广大开发者提供的小程序开发全栈资源套件，套件提供小程序会话管理服务和 WebSocket 信道服务，部署方式具备良好的弹性伸缩能力，可以快速应对业务的爆发增长，同时具备较低的开发门槛。 [官网](https://github.com/tencentyun/wafer)
+*   **微信小程序客户端腾讯云增强SDK:** [官网](https://github.com/tencentyun/wafer-client-sdk)
 

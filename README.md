@@ -268,5 +268,8 @@
 可导出符合小程序标准的代码供后续开发。 [官网](http://www.coolsite360.com/wxapps/)
 *   **wafer：**快速构建具备弹性伸缩能力的微信小程序,是腾讯云面向广大开发者提供的小程序开发全栈资源套件，套件提供小程序会话管理服务和 WebSocket 信道服务，部署方式具备良好的弹性伸缩能力，可以快速应对业务的爆发增长，同时具备较低的开发门槛。 [官网](https://github.com/tencentyun/wafer)
 *   **微信小程序客户端腾讯云增强SDK:** [官网](https://github.com/tencentyun/wafer-client-sdk)
-*   **小程序flex布局:**[官网](http://blog.csdn.net/sundayaaron/article/details/53487637)
+*   **小程序flex布局1:**[官网](http://blog.csdn.net/sundayaaron/article/details/53487637)
+*   **小程序flex布局2**[官网](https://github.com/icindy/wxflex)
+*   **微信web端实时运行工具：**[官网](https://github.com/chemzqm/wept)
+
 

@@ -1,5 +1,5 @@
 # 个人长期收集整理的IOS资源大全
-###更新日期：2017年-1月-10日
+###更新日期：2017年-1月-14日
 ### 个人的能力是有限的，大家的共同努力才是王道，如有好的建议，好的文章、资源推荐。请加QQ：1213423761,或者QQEmail我。
 ##目录
 *   [优秀源码](#sourcecode)
@@ -57,7 +57,7 @@
 *   Spring：一个简单的 Swift iOS 动画库。★★★★★[官网](https://github.com/MengTo/Spring)
 *   Fluent：便捷的 Swift 动画框架。 ★[官网](https://github.com/matthewcheok/Fluent)
 *   Cheetah：便捷的 iOS 动画库，由 Swift2 编写。 ★[官网](https://github.com/suguru/Cheetah)
-*   [RadialLayer](http://hao.jobbole.com/radiallayer/)：针对可点击元素的动画（类似于 Youtube Music）★[官网](https://github.com/soheil/RadialLayer)
+*   RadialLayer：针对可点击元素的动画（类似于 Youtube Music）★[官网](https://github.com/soheil/RadialLayer)
 *   TransitionTreasury:swift转场动画效果库，非常赞。★★★★[官网](http://transitiontreasury.com/) [github](https://github.com/DianQK/TransitionTreasury?url_type=39&object_type=webpage&pos=1)  
 
     ####皮筋动画
@@ -81,14 +81,16 @@
     *   MJParallaxCollectionView:CollectionView实现的滚动视图视觉差特效。 [官网](https://github.com/mayuur/MJParallaxCollectionView)
 
     ####转场动画
-    *   BubbleTransition:模态圆形转场。 [官网](https://github.com/andreamazz/BubbleTransition)
+    *   BubbleTransition:模态圆形转场。 [官网](https://github.com/andreamazz/BubbleTransition)★★★★★
     *   SAInboxViewController:中间向两边展开过渡，灵感源于Inbox应用。 [官网](https://github.com/szk-atmosphere/SAInboxViewController)
+    *   轻松自定义转场动画，精品推荐:[官网](https://github.com/lkzhao/Hero)★★★★★
 
     ####其它
     *   樱花飞舞:很有意思的动画效果，通过imageView和layer作用在一起就可以实现，非常不错的思路，值的借鉴。 [官网](http://code.cocoachina.com/view/130352)
     *   Shimmer:facebook开源的视图闪烁动效，主要用于文字荧光场景。 [官网](https://github.com/facebook/Shimmer)
-    *   LTMorphingLabel:多种文字变化，切换效果。不错，赞一个。 [官网](https://github.com/lexrus/LTMorphingLabel)
     *   文字以打印机方式输入特效:挺有意思的一个动画。 [官网](http://code4app.com/ios/%E6%89%93%E5%8D%B0%E6%9C%BA%E8%BE%93%E5%87%BA%E7%89%B9%E6%95%88/53e1e4bd933bf030468b5362)
+    *   LTMorphingLabel:多种文字变化，切换效果。不错，赞一个。 [官网](https://github.com/lexrus/LTMorphingLabel)
+    *   label文字动画：[官网](https://github.com/overboming/ZCAnimatedLabel)
 
 ### <a name="keyboard"></a>键盘处理
 *   [IQKeyboardManager](https://github.com/hackiftekhar/IQKeyboardManager)：IQKeyboardManager是iOS中解决键盘弹起遮挡UITextField/UITextView的一种很实用的工具。无需输入任何代码,不需要额外的设置，精品推荐。★★★★★[官网](https://github.com/rsattar/Voucher)
@@ -99,7 +101,7 @@
 *   Permission:便捷地请求用户权限（支持相机、照片、麦克风、联系人、位置）。 [官网](https://github.com/delba/permission)
 
 ### <a name="layout"></a>布局
-*   Masonry：利用简单的，链式的语法发挥出自动布局 NSLayoutConstraints 的强大功能。 [官网](https://github.com/Masonry/Masonry)
+*   Masonry：利用简单的，链式的语法发挥出自动布局 NSLayoutConstraints 的强大功能。 [官网](https://github.com/Masonry/Masonry)★★★★★
 *   UIView-AutoLayout:简单的frame配合layout布局。 [官网](https://github.com/smileyborg/UIView-AutoLayout)
 *   SnapKit:一个 iOS 和 OS X 的 Swift Autolayout 领域专用语言（DSL）。 [官网](https://github.com/SnapKit/SnapKit)
 ### <a name="hud"></a>提示、加载中
@@ -181,9 +183,10 @@
 *   DZNEmptyDataSet 优秀的TableView出错页、空白视图封装[官网](https://github.com/dzenbot/DZNEmptyDataSet)
 *   LGSublimationView渐变过渡展示页：[官网](https://github.com/lukegeiger/LGSublimationView)
 *   RMPZoomTransitionAnimator图片放大转场：[官网](https://github.com/recruit-mp/RMPZoomTransitionAnimator)
+*   电影选座库：[官网](https://github.com/ZFbaby/ZFSeatsSelection)
 
 ### <a name="effectiveness"></a>效率、优化
-*   Aspects:面向切面编程简易实现库。精品。 [官网](https://github.com/steipete/Aspects)
+*   Aspects:面向切面编程简易实现库。精品。 [官网](https://github.com/steipete/Aspects)★★★★★
 *   PINCache: 是 Pinterest 公司开发的一个快速，无死锁的并行对象缓存，支持 iOS 和 OS X 系统， 是 TMCache 的改进版本。 [官网](https://github.com/pinterest/PINCache)
 *   YYKit:是一组庞大、功能丰富的 iOS 组件。 [官网](https://github.com/ibireme/YYKit)
 *   AsyncDisplayKit：Facebook开源的能够提高UI流畅性并缩短响应时间的UI框架。 [官网](https://github.com/facebook/AsyncDisplayKit)
@@ -194,11 +197,15 @@
 *   MLeaksFinder：只需要引入 MLeaksFinder，就可以自动在 App 运行过程检测到内存泄露的对象并立即提醒，无需打开额外的工具。[官网](https://github.com/Zepo/MLeaksFinder)
 *   Object-c转JsPatch代码。 [官网](https://github.com/bang590/JSPatchConvertor)
 *   LKDBHelper-SQLite-ORM：sqlite封装，ORM实现。 [官网](https://github.com/li6185377/LKDBHelper-SQLite-ORM)
-*   UIView-FDCollapsibleConstraints:优雅的方式解决自动布局中子View的动态显示和隐藏的问题。 [官网](https://github.com/forkingdog/UIView-FDCollapsibleConstraints)
 *   apiary.io :创建文档API，可以快速让APP先调用，并行开发。 [官网](https://apiary.io/)
 *   FBRetainCycleDetector:facebook开发的一款检查循环引用的类库。[官网](https://github.com/facebook/FBRetainCycleDetector)
-*   AsyncDisplayKit:facebook开源的又一款精品，能够提高UI的流畅性并缩短响应时间。[官网](https://github.com/facebook/AsyncDisplayKit)
+*   AsyncDisplayKit:facebook开源的又一款精品，能够提高UI的流畅性并缩短响应时间。[官网](https://github.com/facebook/AsyncDisplayKit)★★★★★
 *   TransitionKit：ios状态机，[官网](https://github.com/blakewatters/TransitionKit)
+*   FDFullscreenPopGesture：全屏滑动返回[官网](https://github.com/forkingdog/FDFullscreenPopGesture)
+
+**约束处理：**
+*   UIView-FDCollapsibleConstraints:优雅的方式解决自动布局中子View的动态显示和隐藏的问题。 [官网](https://github.com/forkingdog/UIView-FDCollapsibleConstraints)
+*   UITableView-FDTemplateLayoutCell:AutoLayout自动算高，高性能带缓存，百度出口。[官网](https://github.com/forkingdog/UITableView-FDTemplateLayoutCell)
 
 ### <a name="hardware"></a>硬件
 *   MotionKit:快捷从加速度传感器、陀螺仪和磁力传感器获取数据。 [官网](https://github.com/MHaroonBaig/MotionKit)
@@ -224,7 +231,7 @@
     *   iOS组件化思路－大神博客研读和思考。 [官网](http://www.jianshu.com/p/afb9b52143d4)    
 
 ### <a name="tool"></a>工具推荐
-*   Dash: 文档管理工具,可以浏览API文档,以及管理代码片段工具的强大辅助工具。 [官网](https://kapeli.com/dash)
+*   Dash: 文档管理工具,可以浏览API文档,以及管理代码片段工具的强大辅助工具。 [官网](https://kapeli.com/dash)★★★★★
 *   Postman: 网络请求测试工具,有mac版及chrome插件版。 [官网](https://www.getpostman.com/) 
 *   FarBox:Markdown一见倾心，写作工具。 [官网](https://www.farbox.com/service/app/desktop_editor)
 *   SourceTree:一款不错的git客户端。 [官网](https://www.sourcetreeapp.com/)
@@ -250,14 +257,16 @@
 ### <a name="otherItem"></a>其它
 *   收集的AppStore被拒理由大全。 [官网](https://github.com/jcccn/Why-Reject)
 *   iOS资源大全中文版。 [官网](https://github.com/jobbole/awesome-ios-cn)
+*   ibireme收集整理的iOS开发相关第三方库和使用工具。[官网](http://github.ibireme.com/github/list/ios/)
+*   zhouhuanqiang收集整理的博客及开源项目:[官网](http://github.com/zhouhuanqiang/LearningIOS)
+*   Analyze:关于iOS开源框架源代码解析的文章：[官网](https://github.com/Draveness/iOS-Source-Code-Analyze)
+*   open-source-ios-apps:国外整理收集源码大全：[官网](https://github.com/dkhamsing/open-source-ios-apps)
 *   android资源大全。  [官网](https://github.com/Rano1/Interactive-animation/blob/master/README.md)
-*    ibireme收集整理的iOS开发相关第三方库和使用工具。[官网](http://github.ibireme.com/github/list/ios/)
-*    zhouhuanqiang收集整理的博客及开源项目:[官网](http://github.com/zhouhuanqiang/LearningIOS)
-*    Analyze:关于iOS开源框架源代码解析的文章：[官网](https://github.com/Draveness/iOS-Source-Code-Analyze)
 
 ### <a name="xcx"></a>微信小程序
 *   **coolsite360:**小程序UI设计工具,在线进行小程序UI可视化设计，支持Flex布局， 
 可导出符合小程序标准的代码供后续开发。 [官网](http://www.coolsite360.com/wxapps/)
 *   **wafer：**快速构建具备弹性伸缩能力的微信小程序,是腾讯云面向广大开发者提供的小程序开发全栈资源套件，套件提供小程序会话管理服务和 WebSocket 信道服务，部署方式具备良好的弹性伸缩能力，可以快速应对业务的爆发增长，同时具备较低的开发门槛。 [官网](https://github.com/tencentyun/wafer)
 *   **微信小程序客户端腾讯云增强SDK:** [官网](https://github.com/tencentyun/wafer-client-sdk)
+*   **小程序flex布局:**[官网](http://blog.csdn.net/sundayaaron/article/details/53487637)
 

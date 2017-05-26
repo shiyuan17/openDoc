@@ -1,5 +1,5 @@
 # 个人长期收集整理的IOS资源大全
-###更新日期：2017年-1月-14日
+###更新日期：2017年-5月-26日
 ### 个人的能力是有限的，大家的共同努力才是王道，如有好的建议，好的文章、资源推荐。请加QQ：1213423761,或者QQEmail我。
 ##目录
 *   [优秀源码](#sourcecode)
@@ -48,6 +48,15 @@
 ###<a name="practice"></a>实践Project
 *   [MobileProject](https://github.com/wujunyang/MobileProject):MobileProject项目是一个以MVC模式搭建的开源功能集合,包含地图、二维码、jspatch、照片等等功能。
 *   [HZExtend](https://github.com/GeniusBrother/HZExtend):mvc、mvvm实践
+
+### <a name="swift"></a>swift
+*   SwiftyJSON: swift json高效简洁解析:[官网](https://github.com/SwiftyJSON/SwiftyJSON)
+*   FileKit 是一个 Swift 框架，提供了简单和富有表现力的文件管理。[官网](https://github.com/nvzqz/FileKit)
+*   SwiftyUserDefaults 让 user defaults 用起来很愉悦.[官网](https://github.com/radex/SwiftyUserDefaults)
+*   Alamofire 是用 Swift 写的 HTTP 网络库。[官网](https://github.com/Alamofire/Alamofire)
+*   Timepiece:Swift 里直观的日期处理。[官网](https://github.com/naoty/Timepiece)
+*   FSCalendar:自定义的 iOS 日历库[官网](https://github.com/WenchaoD/FSCalendar)
+*   Valet钥匙串帮手：[官网] (https://github.com/square/Valet)
 
 ###<a name="animation"></a> 动画
 *   Pop：一个 iOS 和 OS X 动画库，可以方便地实现由物理效果的交互。★★★★[官网](https://github.com/facebook/pop) [pop案例](https://github.com/WilliamZang/FastAnimationWithPOP)
@@ -271,5 +280,20 @@
 *   **小程序flex布局1:**[官网](http://blog.csdn.net/sundayaaron/article/details/53487637)
 *   **小程序flex布局2**[官网](https://github.com/icindy/wxflex)
 *   **微信web端实时运行工具：**[官网](https://github.com/chemzqm/wept)
+
+### <a name="othAll"></a>其它资源大全
+**java资源大全**：[官网](https://github.com/jobbole/awesome-java-cn)
+**Python资源大全**：[官网](https://github.com/jobbole/awesome-python-cn)
+**JavaScript资源大全**：[官网](https://github.com/jobbole/awesome-javascript-cn)
+**Css资源大全**：[官网](https://github.com/jobbole/awesome-css-cn)
+**Ios资源大全**：[官网](https://github.com/jobbole/awesome-ios-cn)
+**android资源大全**：[官网](https://github.com/jobbole/awesome-android-cn)
+**C资源大全**：[官网](https://github.com/jobbole/awesome-c-cn)
+**C++资源大全**：[官网](https://github.com/jobbole/awesome-cpp-cn)
+**.Net资源大全**：[官网](https://github.com/jobbole/awesome-dotnet-cn)
+**PHP资源大全**：[官网](https://github.com/jobbole/awesome-php-cn)
+**MySql资源大全**：[官网](https://github.com/jobbole/awesome-mysql-cn)
+**机器学习资源大全**：[官网](https://github.com/jobbole/awesome-sysadmin-cn)
+
 
 

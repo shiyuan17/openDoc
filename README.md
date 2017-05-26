@@ -24,6 +24,7 @@
 *   [Xcode插件推荐](#xcodeplugs)
 *   [其它](#otherItem)
 *   [微信小程序](#xcx)
+*   [其它资源大全](#othAll)
 
 ## <a name="sourcecode"></a>优秀源码（站在巨人的肩膀、借鉴巨人的经验）
 
@@ -58,7 +59,7 @@
 *   FSCalendar:自定义的 iOS 日历库[官网](https://github.com/WenchaoD/FSCalendar)
 *   Valet钥匙串帮手：[官网] (https://github.com/square/Valet)
 
-###<a name="animation"></a> 动画
+### <a name="animation"></a> 动画
 *   Pop：一个 iOS 和 OS X 动画库，可以方便地实现由物理效果的交互。★★★★[官网](https://github.com/facebook/pop) [pop案例](https://github.com/WilliamZang/FastAnimationWithPOP)
 *   AnimationEngine：可以在 iOS 上方便地构建高级自定义动画。[官网](https://github.com/intuit/AnimationEngine)
 *   Awesome-iOS-Animation：一个动画项目的集合。[官网](https://github.com/jackyzh/awesome-ios-animation)
@@ -68,33 +69,33 @@
 *   Cheetah：便捷的 iOS 动画库，由 Swift2 编写。 ★[官网](https://github.com/suguru/Cheetah)
 *   RadialLayer：针对可点击元素的动画（类似于 Youtube Music）★[官网](https://github.com/soheil/RadialLayer)
 *   TransitionTreasury:swift转场动画效果库，非常赞。★★★★[官网](http://transitiontreasury.com/) [github](https://github.com/DianQK/TransitionTreasury?url_type=39&object_type=webpage&pos=1)  
-
-    ####皮筋动画
-    *   [ElasticTransition](https://github.com/lkzhao/ElasticTransition):一个自定义模拟弹性的swift使用库 Oc版：[官网](https://github.com/taglia3/ElasticTransition-ObjC)。
+   
+皮筋动画   
+   *   [ElasticTransition](https://github.com/lkzhao/ElasticTransition):一个自定义模拟弹性的swift使用库 Oc版：[官网](https://github.com/taglia3/ElasticTransition-ObjC)。
   *   GooeyTabbar:非常棒的弹性菜单、弹出层效果。推荐指数：★★★★★[官网](https://github.com/KittenYang/GooeyTabbar)
-
-    ####卡片切换
-    *    MDCSwipeToChoose:社交、交友应用比较广泛的卡片切换效果。 [官网](https://github.com/modocache/MDCSwipeToChoose)
+   
+卡片切换   
+    *   MDCSwipeToChoose:社交、交友应用比较广泛的卡片切换效果。 [官网](https://github.com/modocache/MDCSwipeToChoose)
     *    ZLSwipeableViewSwift:swift语言实现的卡片切换。 [官网](https://github.com/zhxnlai/ZLSwipeableViewSwift)
     
-    ####图片加载动画
+图片加载动画   
     *   [RJImageLoader](https://github.com/rounak/RJImageLoader):下载图片、下载头像时比较适用，圆形进度下载，下载完有个圆形扩展的效果，非常棒。
     *   [PAAImageView](https://github.com/abiaad/PAAImageView):也是比较适合用在头像下载时的动效交互。
 
-    ####icon过渡
+icon过渡   
     *   TBIconTransitionKit:图标与图标之间的切换交互效果，优化用户体验非常不错的选择。 [官网](https://github.com/AlexeyBelezeko/TBIconTransitionKit)
     *   BEMCheckBox:不错的复选框交互动效。 [官网](https://github.com/Boris-Em/BEMCheckBox#sample-app)
     
-    ####视觉差
+视觉差   
     *   JBParallaxCell:tableview实现的滚动视图视觉差特效。 [官网](https://github.com/jberlana/JBParallaxCell)
     *   MJParallaxCollectionView:CollectionView实现的滚动视图视觉差特效。 [官网](https://github.com/mayuur/MJParallaxCollectionView)
 
-    ####转场动画
+转场动画   
     *   BubbleTransition:模态圆形转场。 [官网](https://github.com/andreamazz/BubbleTransition)★★★★★
     *   SAInboxViewController:中间向两边展开过渡，灵感源于Inbox应用。 [官网](https://github.com/szk-atmosphere/SAInboxViewController)
     *   轻松自定义转场动画，精品推荐:[官网](https://github.com/lkzhao/Hero)★★★★★
 
-    ####其它
+其它   
     *   樱花飞舞:很有意思的动画效果，通过imageView和layer作用在一起就可以实现，非常不错的思路，值的借鉴。 [官网](http://code.cocoachina.com/view/130352)
     *   Shimmer:facebook开源的视图闪烁动效，主要用于文字荧光场景。 [官网](https://github.com/facebook/Shimmer)
     *   文字以打印机方式输入特效:挺有意思的一个动画。 [官网](http://code4app.com/ios/%E6%89%93%E5%8D%B0%E6%9C%BA%E8%BE%93%E5%87%BA%E7%89%B9%E6%95%88/53e1e4bd933bf030468b5362)

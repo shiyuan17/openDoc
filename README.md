@@ -282,19 +282,19 @@ icon过渡
 *   **小程序flex布局2**[官网](https://github.com/icindy/wxflex)
 *   **微信web端实时运行工具：**[官网](https://github.com/chemzqm/wept)
 
-### <a name="othAll"></a>其它资源大全
-**java资源大全**：[官网](https://github.com/jobbole/awesome-java-cn)
-**Python资源大全**：[官网](https://github.com/jobbole/awesome-python-cn)
-**JavaScript资源大全**：[官网](https://github.com/jobbole/awesome-javascript-cn)
-**Css资源大全**：[官网](https://github.com/jobbole/awesome-css-cn)
-**Ios资源大全**：[官网](https://github.com/jobbole/awesome-ios-cn)
-**android资源大全**：[官网](https://github.com/jobbole/awesome-android-cn)
-**C资源大全**：[官网](https://github.com/jobbole/awesome-c-cn)
-**C++资源大全**：[官网](https://github.com/jobbole/awesome-cpp-cn)
-**.Net资源大全**：[官网](https://github.com/jobbole/awesome-dotnet-cn)
-**PHP资源大全**：[官网](https://github.com/jobbole/awesome-php-cn)
-**MySql资源大全**：[官网](https://github.com/jobbole/awesome-mysql-cn)
-**机器学习资源大全**：[官网](https://github.com/jobbole/awesome-sysadmin-cn)
+### <a name="othAll"></a>其它资源大全   
+**java资源大全**：[官网](https://github.com/jobbole/awesome-java-cn)   
+**Python资源大全**：[官网](https://github.com/jobbole/awesome-python-cn)   
+**JavaScript资源大全**：[官网](https://github.com/jobbole/awesome-javascript-cn)   
+**Css资源大全**：[官网](https://github.com/jobbole/awesome-css-cn)   
+**Ios资源大全**：[官网](https://github.com/jobbole/awesome-ios-cn)   
+**android资源大全**：[官网](https://github.com/jobbole/awesome-android-cn)   
+**C资源大全**：[官网](https://github.com/jobbole/awesome-c-cn)   
+**C++资源大全**：[官网](https://github.com/jobbole/awesome-cpp-cn)   
+**.Net资源大全**：[官网](https://github.com/jobbole/awesome-dotnet-cn)   
+**PHP资源大全**：[官网](https://github.com/jobbole/awesome-php-cn)   
+**MySql资源大全**：[官网](https://github.com/jobbole/awesome-mysql-cn)   
+**机器学习资源大全**：[官网](https://github.com/jobbole/awesome-sysadmin-cn)   
 
 
 
